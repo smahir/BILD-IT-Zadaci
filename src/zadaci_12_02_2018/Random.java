@@ -1,7 +1,5 @@
 package zadaci_12_02_2018;
 
-import javax.swing.plaf.synth.SynthSplitPaneUI;
-
 public class Random {
 
 	public static void main(String[] args) {
